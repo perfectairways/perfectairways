@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        PERFECT AIRWAYS 
+        </title>
+    </head>
+    <body background="dubai.jpg" style="background-size: cover;background-repeat:no-repeat;background-position: center; height: 600px;">
+    <div style="background-color: rgba(54, 176, 225, 0.79);height: 70px;width: 1900;">
+        <h3 style="text-align: left;">
+              <font face ="lato" size="100px" style="color: ghostwhite;">PERFECT AIRWAYS</font>
+            
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                <font style="cinze;text-align: right;">
+                <a href="">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="inspect (1).html">INSPECT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="contactus.html">CONTACT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="info.html">INFO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;
+                </font>
+        </h3>
+            </div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <h1 style="text-align: center;font-size: 35px;"> DISCOVER <span style="color:rgb(214, 16, 46);">THE</span> WORLD</h1>
+    <h1 style="text-align: center;font-size: 30px;"> MAKE<span style="color: rgb(91, 17, 159);">   A  </span>TRIP</h1>
+    <br>
+    <h1 style="text-align: center;font-size: 40px;color: rgb(21, 182, 109);"> 
+        <a href="Book now.html" target="_blank">BOOK NOW</a>
+    </h1>
+    </body>
+</html>
